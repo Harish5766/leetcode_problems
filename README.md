@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0884-k-similar-strings](https://github.com/Harish5766/leetcode_problems/tree/master/0884-k-similar-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Harish5766/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/Harish5766/leetcode_problems/tree/master/2877-shortest-string-that-contains-three-strings) |
 ## Greedy
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/Harish5766/leetcode_problems/tree/master/2448-count-number-of-bad-pairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0884-k-similar-strings](https://github.com/Harish5766/leetcode_problems/tree/master/0884-k-similar-strings) |
 <!---LeetCode Topics End-->
