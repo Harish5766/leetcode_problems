@@ -6,11 +6,13 @@
 | ------- |
 | [0884-k-similar-strings](https://github.com/Harish5766/leetcode_problems/tree/master/0884-k-similar-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Harish5766/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Harish5766/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/Harish5766/leetcode_problems/tree/master/2877-shortest-string-that-contains-three-strings) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Harish5766/leetcode_problems/tree/master/0045-jump-game-ii) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Harish5766/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2877-shortest-string-that-contains-three-strings](https://github.com/Harish5766/leetcode_problems/tree/master/2877-shortest-string-that-contains-three-strings) |
 ## Enumeration
 |  |
@@ -43,4 +45,12 @@
 |  |
 | ------- |
 | [0884-k-similar-strings](https://github.com/Harish5766/leetcode_problems/tree/master/0884-k-similar-strings) |
+## Backtracking
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Harish5766/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
+## Stack
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Harish5766/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
