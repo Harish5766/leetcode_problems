@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Harish5766/leetcode_problems/tree/master/0045-jump-game-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Harish5766/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/Harish5766/leetcode_problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Harish5766/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
@@ -78,5 +79,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Harish5766/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Harish5766/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Harish5766/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
