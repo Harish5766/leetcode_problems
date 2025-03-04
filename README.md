@@ -46,6 +46,7 @@
 ## Math
 |  |
 | ------- |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Harish5766/leetcode_problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/Harish5766/leetcode_problems/tree/master/2448-count-number-of-bad-pairs) |
 ## Breadth-First Search
 |  |
