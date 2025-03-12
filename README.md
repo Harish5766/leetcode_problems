@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish5766/leetcode_problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1038-number-of-squareful-arrays](https://github.com/Harish5766/leetcode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Harish5766/leetcode_problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Harish5766/leetcode_problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Harish5766/leetcode_problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Harish5766/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish5766/leetcode_problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1038-number-of-squareful-arrays](https://github.com/Harish5766/leetcode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Harish5766/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/Harish5766/leetcode_problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Harish5766/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -47,10 +49,12 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Harish5766/leetcode_problems/tree/master/0045-jump-game-ii) |
+| [1038-number-of-squareful-arrays](https://github.com/Harish5766/leetcode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [1170-shortest-common-supersequence](https://github.com/Harish5766/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
 ## Math
 |  |
 | ------- |
+| [1038-number-of-squareful-arrays](https://github.com/Harish5766/leetcode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Harish5766/leetcode_problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/Harish5766/leetcode_problems/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harish5766/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -62,6 +66,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1038-number-of-squareful-arrays](https://github.com/Harish5766/leetcode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Harish5766/leetcode_problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
@@ -108,4 +113,12 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish5766/leetcode_problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/Harish5766/leetcode_problems/tree/master/1038-number-of-squareful-arrays) |
+## Bitmask
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/Harish5766/leetcode_problems/tree/master/1038-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
