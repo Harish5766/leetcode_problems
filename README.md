@@ -41,6 +41,7 @@
 | [0045-jump-game-ii](https://github.com/Harish5766/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish5766/leetcode_problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1038-number-of-squareful-arrays](https://github.com/Harish5766/leetcode_problems/tree/master/1038-number-of-squareful-arrays) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Harish5766/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Harish5766/leetcode_problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/Harish5766/leetcode_problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Harish5766/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [1038-number-of-squareful-arrays](https://github.com/Harish5766/leetcode_problems/tree/master/1038-number-of-squareful-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Harish5766/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 <!---LeetCode Topics End-->
