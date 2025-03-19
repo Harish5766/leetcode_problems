@@ -47,6 +47,7 @@
 | [2478-longest-nice-subarray](https://github.com/Harish5766/leetcode_problems/tree/master/2478-longest-nice-subarray) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Harish5766/leetcode_problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Harish5766/leetcode_problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harish5766/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Harish5766/leetcode_problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2478-longest-nice-subarray](https://github.com/Harish5766/leetcode_problems/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harish5766/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | ------- |
 | [1038-number-of-squareful-arrays](https://github.com/Harish5766/leetcode_problems/tree/master/1038-number-of-squareful-arrays) |
 | [2478-longest-nice-subarray](https://github.com/Harish5766/leetcode_problems/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harish5766/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bitmask
 |  |
 | ------- |
@@ -129,4 +132,12 @@
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Harish5766/leetcode_problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harish5766/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Harish5766/leetcode_problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
